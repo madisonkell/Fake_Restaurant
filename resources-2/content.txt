@@ -1,0 +1,137 @@
+Welcome to the Three Broomsticks!
+
+This rustic tavern is the place to go for good food, friendly conversation, and of course—a Butterbeer TM. The cosy, snow-capped inn is the place where Harry Potter TM had his first taste of the sweet wizarding drink. Through the centuries, the Three Broomsticks TM has welcomed countless Hogwarts TM students including Harry and his friends.
+
+Inside you'll notice details such as cast-iron chandeliers, weathered wood beams, and balconies brimming with curious bric-a-brac. Take a seat and have your fill of tasty British fare including 'The Great Feast', Fish And Chips, Shepherd's Pie, Beef Pasties, Turkey Legs, and Fresh Vegetables.
+
+
+At a Glance
+
+Universal Dining Plan — Quick Service
+Mobile Food Ordering Available
+Snacks And Beverages
+Lunch
+Dinner
+Alcoholic Beverages Available, 21+ With Valid ID
+Healthy Options
+Breakfast
+
+
+Lunch and Dinner Menu
+Main Courses
+
+Shepherd's Pie with Garden Salad - 15.99
+Ground beef, lamb & vegetables crowned with potatoes
+
+Beef Pasties with Garden Salad - 10.99
+Flakey pastry pies filled with ground beef, vegetables & potatoes served with a side salad & choice of dressing
+
+Fish and Chips - 16.99
+Fresh north Atlantic cod battered & fried with chips and tartar sauce
+
+Spareribs Platter - 17.99
+Served with corn on the cob and roasted potatoes
+
+
+
+Reviews
+
+Cornelius Fudge
+This cozy restaurant has left the best impressions! Hospitable hosts, delicious dishes, beautiful presentation, wide wine list and wonderful dessert. I recommend to everyone! I would like to come back here again and again.
+
+Dean Thomas
+Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.
+
+Sirius Black
+We are so fortunate to have this place just a few minutes drive away from home. Food is stunning, both the tapas and downstairs restaurant. Cocktails wow, wine great and lovely selection of beers. Love this place and will continue to visit.
+
+Severus Snape 
+Took an hour to get food. Food was dry and not cooked well and my friend found hair in her food. It was a busy night I get it, but worst service I have ever experienced. Go ANYWHERE else.
+
+
+Contact
+
+	Sun:		Closed
+Mon-Fri:		8:00 am - 8:00 pm
+	Sat:		10:00 am - 11:00 pm
+
+The Three Broomsticks
+6000 Universal Blvd 
+Orlando, FL 32819
+Phone : 888-555-5555
+
+Copyright  2021 The Three Broomsticks
+dining@the3broomsticks.com
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="card-deck">
+            <div class="col-sm-12 col-md-6 " style="flex-wrap: wrap; max-width: 200px; max-height: 300px">
+              <div class="card" style="size: auto;">
+                <img src="./resources-2/images/menu/shepherd_pie.jpg" class="card-img-top; img-fluid">
+              <div class = "menu">
+            <div class="card-body">
+             <h5 class="card-title">Shepherd's Pie with Garden Salad</h5>
+              <p class="card-text">Ground beef, lamb & vegetables crowned with potatoes</p>
+            </div>
+            <hr>
+            <div class="card-body">
+              <a href="#" class="btn btn-primary" style= "background-color: goldenrod;" style="width: 100%;"> Order Online</a>
+            </div>
+          </div>
+     </div>
+  
+
+      <div class="col-sm-12 col-md-6"  style="flex-wrap: wrap; max-width: 200px; max-height: 300px">
+        <div class="card" style="size: auto;">
+          <img src="./resources-2/images/menu/beef_pasty.jpg" class="card-img-top; img-fluid">
+          <div class = "menu">
+            <div class="card-body">
+            <h5 class="card-title">Beef Pasties with Garden Salad</h5>
+            <p class="card-text">Pastry pies filled with ground beef, vegetables & potatoes served with a side salad & choice of dressing</p>
+            </div>
+            <hr>
+            <div class="card-body">
+              <a href="#" class="btn btn-primary" style= "background-color: goldenrod; width: 100%;"> Order Online</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-12 col-md-6"  style="max-width: 200px; max-height: 300px">
+        <div class="card" style="size: auto;">
+        <img src="./resources-2/images/menu/fish_n_chips.jpg" class="card-img-top; img-fluid">
+          <div class = "menu">
+            <div class="card-body">
+            <h5 class="card-title">Fish and Chips</h5>
+            <p class="card-text">Fresh north Atlantic cod battered & fried with chips and tartar sauce</p>
+            </div>
+            <hr>
+            <div class="card-body">
+              <a href="#" class="btn btn-primary" style= "background-color: goldenrod;"> Order Online</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-12 col-md-6"  style="max-width: 200px; max-height: 300px;">
+        <div class="card" style="size: auto;">
+          <img src="./resources-2/images/menu/spareribs.jpg" class="card-img-top; img-fluid">
+          <div class = "menu">
+            <div class="card-body">
+              <h5 class="card-title">Spareribs Platter</h5>
+              <p class="card-text">Served with corn on the cob and roasted potatoes</p>
+            </div>
+            <hr>
+            <div class="card-body">
+              <a href="#" class="btn btn-primary" style= "background-color: goldenrod; width: 100%;"> Order Online</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>  
+
+
+
+

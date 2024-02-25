@@ -1,0 +1,86 @@
+
+.body{
+    font-family:'Lobster', cursive;
+    color: coral;
+    background-color: beige;
+    padding-top: 40px;
+}
+.css{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+ul{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    font-family:'Lobster', cursive;
+}
+
+.navbar a:hover{
+border-bottom: 3px solid transparent;
+}
+
+.header{
+    text-align: center;
+}
+
+.menu{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: darksalmon;
+
+}
+
+#carousel{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background-color: beige;
+    display: flex;
+}
+
+h2{
+    font-family:'Lobster', cursive;
+    color: coral;
+    text-align: center;
+}
+
+.grid-container{
+column-gap: 10px;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+    
+}
+
+.menu-body{
+    max-width: 25%;
+    min-width: 300px;
+    flex: 1 1 100px;
+}
+
+footer{
+    font-family: 'Roboto', sans-serif;
+    color: darkgrey;
+    background-color: seashell;
+    padding: 4px;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+
+.fixed-top{
+    position: fixed;
+    top: -10px;
+    right: 0;
+    left: 0;
+
+}
+p{
+    display: flex;
+}
